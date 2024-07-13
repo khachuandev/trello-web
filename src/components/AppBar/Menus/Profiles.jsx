@@ -34,7 +34,7 @@ function Profiles() {
         >
           <Avatar
             alt="Louis Nguyen"
-            sx={{ width: 34, height: 34 }}
+            sx={{ width: 36, height: 36 }}
             src="https://scontent.fhan9-1.fna.fbcdn.net/v/t39.30808-1/344270874_905602180722480_3564515429452109506_n.jpg?stp=c1.0.40.40a_cp0_dst-jpg_p40x40&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=fM1hwuDiXhsQ7kNvgGxRLCk&_nc_ht=scontent.fhan9-1.fna&oh=00_AYDjVx3lPSdSS3afdI3-qr5QYdYstmBarmp_lfrmcRYEtQ&oe=6697B9B6"
           />
         </IconButton>

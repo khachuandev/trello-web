@@ -11,14 +11,15 @@ import Box from '@mui/material/Box'
 function ModeSelect() {
   const { mode, setMode } = useColorScheme()
 
-  const handleChange = (event) => {
+  const handleChange = event => {
     const selectedMode = event.target.value
     setMode(selectedMode)
   }
 
   return (
-    <FormControl sx={{ m: 1, minWidth: 120 }} size="small">
+    <FormControl size="small">
       <InputLabel id="label-select-dark-light-mode">Mode</InputLabel>
+
       <Select
         labelId="label-select-dark-light-mode"
         id="select-dark-light-mode"
